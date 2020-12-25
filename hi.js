@@ -7,6 +7,9 @@
 	window.helloSpeaker = helloSpeaker;
 
 })(window);
+
+
+
 /*(function(window) {
     var helloSpeaker = new Object();
     var speakWord = "Hello";
@@ -24,3 +27,4 @@
 	window.hellospeaker = hellospeaker;
 })(window);
 */
+

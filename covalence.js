@@ -12,7 +12,7 @@ boy.firstName;
 boy.ag;
 boy.dob;
 console.log(boy) */
-
+/* aaray */
 var array1 = ["keshav","bhupat","himashu"]
 var array2 = [20,21,19]
 var val1 = array1[0]+array1[1]
@@ -23,7 +23,7 @@ array1.push("ritesh")
 array2.pop()
 console.log(array1)
 console.log(array2)
-
+/* object using */
 var college = {
     name:"rajasthan Technical university,kota",
 
@@ -42,6 +42,7 @@ var college = {
             },
             }
 }
+
 console.log(college)
 console.log(college.name)
 console.log(college.name.branches)

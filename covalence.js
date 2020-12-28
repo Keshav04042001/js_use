@@ -57,3 +57,20 @@ console.log(g)
 console.log(d)
 console.log(e)
 console.log(f)
+
+/* loop throuugh */
+
+friends = ["keshav","bhupat","madhav","shrinith","vikas"]
+for(var i=0;i<friends.length;i++){
+    if(friends[i]=="shrinith"){
+        console.log("yayy you got him")
+    }
+    else{
+        console.log(friends[i])
+    }
+}
+var count = 0;
+while(count<friends.length){
+    console.log(count)
+    count++;
+}
